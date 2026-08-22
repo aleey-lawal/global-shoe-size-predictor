@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Environment files (may contain secrets)
+.env
+
+# Large data files (optional — remove this line if you want CSV on GitHub)
+# data/*.csv
