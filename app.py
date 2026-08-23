@@ -301,7 +301,7 @@ with tab3:
 # ── Footer ──────────────────────────────────────────────────────────────────────
 st.divider()   # horizontal rule above the footer
 st.markdown(
-    "Built by [Your Name](https://yourusername.github.io) · "
-    "[GitHub Repo](https://github.com/yourusername/global-shoe-predictor) · "
+    "Built by [Lawal Lawal Ali](https://aleey-lawal.github.io) · "
+    "[GitHub Repo](https://github.com/aleey-lawal/global-shoe-predictor) · "
     "Data: Jurca et al. (2019) / WHO"
 )   # footer text with hyperlinks to portfolio, GitHub, and data citations
